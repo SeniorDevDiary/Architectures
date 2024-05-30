@@ -1,0 +1,11 @@
+POST http://localhost:5000/api/posts
+content-type: application/json
+
+{
+  "title": "Dev",
+  "content": "content"
+}
+
+###
+
+GET http://localhost:5000/api/posts
