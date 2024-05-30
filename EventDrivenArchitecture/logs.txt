@@ -1,0 +1,2 @@
+2024-05-26T10:57:46.127Z - This is a file log message.
+2024-05-26T10:57:46.128Z - This is a log message for both console and file.
